@@ -11,6 +11,9 @@ Nested Papercrafts for Anatomical and Biological Edutainment
 
 In this paper, we present a new workflow for the computer-aided generation of physicalizations, addressing nested configurations in anatomical and biological structures. Physicalizations are an important component of anatomical and biological education and edutainment. However, existing approaches have mainly revolved around creating data sculptures through digital fabrication. Only a few recent works proposed computer-aided pipelines for generating sculptures, such as papercrafts, with affordable and readily available materials. Papercraft generation remains a challenging topic by itself. Yet, anatomical and biological applications pose additional challenges, such as reconstruction complexity and insufficiency to account for multiple, nested structures—often present in anatomical and biological structures. Our workflow comprises the following steps: (i) define the nested configuration of the model and detect its levels, (ii) calculate the viewpoint that provides optimal, unobstructed views on inner levels, (iii) perform cuts on the outer levels to reveal the inner ones based on the viewpoint selection, (iv) estimate the stability of the cut papercraft to ensure a reliable outcome, (v) generate textures at each level, as a smart visibility mechanism that provides additional information on the inner structures, and (vi) unfold each textured mesh guaranteeing reconstruction. Our novel approach exploits the interactivity of nested papercraft models for edutainment purposes.
 
+### How to use?
+
+Coming soon. (Codes will be added as soon as possible)
 
 ### Results
 
