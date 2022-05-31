@@ -1,7 +1,7 @@
 Nested Papercrafts for Anatomical and Biological Edutainment
 ----------
 
-#### Marwin Schindlere, [Korpitsch Thorsten](https://github.com/AnimaNoProject/), Renata G. Raidou, Hsiang-Yun Wu
+#### Marwin Schindlere, [Thorsten Korpitsch](https://github.com/AnimaNoProject/), Renata G. Raidou, Hsiang-Yun Wu
 
 #### 24th EG Conference on Visualization
 
