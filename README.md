@@ -21,23 +21,15 @@ Coming soon.
 
 ### Citation
 
-Our paper is available in [Euro Vis (Coming Soon)](https://github.com/AnimaNoProject/Nested-Papercrafts-for-Anatomical-and-Biological-Edutainment/) or [TU Wien](https://www.cg.tuwien.ac.at/research/publications/2022/Schindler-2022-eurovis/).
-
+Our paper is available through [Eurographics](https://diglib.eg.org/handle/10.1111/cgf14561) or [TU Wien](https://www.cg.tuwien.ac.at/research/publications/2022/Schindler-2022-eurovis/).
 ```
-@article{Schindler-2022-eurovis,
-  title =      "Nested Papercrafts for Anatomical and Biological Edutainment",
-  author =     "Marwin Schindler and Thorsten Korpitsch and Renata Raidou
-               and Hsiang-Yun Wu",
-  year =       "2022",
-  month =      jun,
-  journal =    "Computer Graphics Forum",
-  volume =     "41",
-  pages =      "1--13",
-  URL =        "https://www.cg.tuwien.ac.at/research/publications/2022/Schindler-2022-eurovis/",
+@article {10.1111:cgf.14561,
+journal = {Computer Graphics Forum},
+title = {{Nested Papercrafts for Anatomical and Biological Edutainment}},
+author = {Schindler, Marwin and Korpitsch, Thorsten and Raidou, Renata Georgia and Wu, Hsiang-Yun},
+year = {2022},
+publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+ISSN = {1467-8659},
+DOI = {10.1111/cgf.14561}
 }
 ```
-
-
-**Please do not forget to use *--legacy* flag to reproduce our results.**
-
-
